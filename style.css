@@ -43,3 +43,10 @@ footer {
   background: #111;
   color: white;
 }
+
+.card a {
+  display: inline-block;
+  margin-top: 8px;
+  color: #0077cc;
+  font-weight: bold;
+}
